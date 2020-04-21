@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/xy/anaconda3/bin/python"
+    "python.pythonPath": "/home/xyz/.conda/envs/nds/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal":true
 }
